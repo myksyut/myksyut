@@ -1,6 +1,6 @@
 ```
 $ whoami
-Shota Miyaki — builds AI products, agent systems, and developer tools.
+Shota Miyaki — AI products, agent systems, developer tools.
 ```
 
 Product thinking, hands-on building. I care less about what a model can do in a demo
