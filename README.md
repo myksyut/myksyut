@@ -1,3 +1,3 @@
-Working on agent systems and developer tools.
+Working on AI products, agents, and developer tools.
 
-[pev-harness](https://github.com/myksyut/pev-harness)
+Occasionally contributing to open source.
